@@ -1,7 +1,30 @@
-# Awesome-Personalized-Alignment
+<h1 align = "center">Large Language Models for Personalized Alignment</h1>
 
-## Test-time Personalized Alignment
-#### Guided Decoding
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Tomsawyerhu/Awesome-Personalized-Alignment?color=yellow&label=Stars">
+</p>
+
+A collection of academic publications and methodologies on the personalized alignment of Large Language Models, covering training-time methods (fine-tuning, embedding learning, learning from human feedback, reinforcement learning) and test-time methods (guided decoding,prompt-based, RAG, agent, memory)
+
+We welcome all researchers to contribute to this repository and further contribute to the knowledge of the Large Language Models with Personalized Alignment field. Please feel free to contact us if you have any related references by Github issue or pull request.
+
+## 📖 Contents
+
+- [💡 Test-time Personalized Alignment](#test-time-personalized-alignment)
+  - [🔤 Guided Decoding](#guided-decoding)
+  - [💬 Prompt-based](#prompt-based)
+  - [🔎 RAG](#rag)
+  - [🤖 Agent](#agent)
+  - [🧠 Memory](#memory)
+- [⚙️ Training-time Personalized Alignment](#training-time-personalized-alignment)
+  - [🔧 Fine-tune](#fine-tune)
+  - [📌 Embedding Learning](#embedding-learning)
+  - [👥 Learning From Human Feedback](#learning-from-human-feedback)
+  - [🔄 Reinforcement Learning](#reinforcement-learning)
+
+
+## 💡 Test-time Personalized Alignment
+#### 🔤 Guided Decoding
 
 | Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
@@ -22,7 +45,7 @@
 | [Parm: Multi-objective test-time alignment via preference-aware autoregressive reward model](http://arxiv.org/abs/2410.08193v5) | Parm | 2025 | arxiv | reward-guided decoding | [PDF](http://arxiv.org/pdf/2410.08193v5.pdf) | 
 | [Search-Based Interaction For Conversation Recommendation via Generative Reward Model Based Simulated User](http://arxiv.org/abs/2504.20458v1) | GRSU | 2025 | arxiv | reward-guided decoding | [PDF](http://arxiv.org/pdf/2504.20458v1.pdf) | 
 
-#### Prompt-based
+#### 💬 Prompt-based
 
 | Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
@@ -53,7 +76,7 @@
 | [Rain: Your language models can align themselves without finetuning](http://arxiv.org/abs/2309.07124v2) | RAIN | 2023 | arxiv | Prompt-based refine | [PDF](http://arxiv.org/pdf/2309.07124v2.pdf) | 
 | [Learning to rewrite prompts for personalized text generation](http://arxiv.org/abs/2310.00152v2) | Rewrite Prompt | 2024 | WWW | Prompt-based refine | [PDF](http://arxiv.org/pdf/2310.00152v2.pdf) | 
 
-#### RAG
+#### 🔎 RAG
 
 | Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
@@ -88,7 +111,7 @@
 | [Rehearse With User: Personalized Opinion Summarization via Role-Playing based on Large Language Models](http://arxiv.org/abs/2503.00449v1) | Zhang et al. | 2025 | arxiv | Post-retrieval | [PDF](http://arxiv.org/pdf/2503.00449v1.pdf) | 
 | [Fit-rag: black-box rag with factual information and token reduction](http://arxiv.org/abs/2403.14374v1) | FIT-RAG | 2024 | arxiv | Post-retrieval | [PDF](http://arxiv.org/pdf/2403.14374v1.pdf) | 
 
-#### Agent
+#### 🤖 Agent
 
 | Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
@@ -116,7 +139,7 @@
 | [MAP: Multi-user Personalization with Collaborative LLM-powered Agents](http://arxiv.org/abs/2506.11803v2) | MAP | 2025 | CHI | Agent | [PDF](http://arxiv.org/pdf/2506.11803v2.pdf) | 
 | [Evaluating personalized tool-augmented llms from the perspectives of personalization and proactivity](http://arxiv.org/abs/2503.00771v2) | | 2025 | arxiv | Agent | [PDF](http://arxiv.org/pdf/2503.00771v2.pdf) | 
 
-#### Memory
+#### 🧠 Memory
 
 | Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
@@ -125,8 +148,8 @@
 | [Memory-assisted prompt editing to improve GPT-3 after deployment](http://arxiv.org/abs/2201.06009v7) | MemPrompt | 2022 | arxiv | memory | [PDF](http://arxiv.org/pdf/2201.06009v7.pdf) | 
 
 
-## Training-time Personalized Alignment
-#### Fine-tune
+## ⚙️ Training-time Personalized Alignment
+#### 🔧 Fine-tune
 
 | Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
@@ -146,7 +169,7 @@
 | [Do llms understand user preferences? evaluating llms on user rating prediction](http://arxiv.org/abs/2305.06474v1) | | 2023 | arxiv | FULL | [PDF](http://arxiv.org/pdf/2305.06474v1.pdf) | 
 | [Teach LLMs to Personalize--An Approach inspired by Writing Education](http://arxiv.org/abs/2308.07968v1) | | 2023 | arxiv | FULL | [PDF](http://arxiv.org/pdf/2308.07968v1.pdf) | 
 
-#### Embedding Learning
+#### 📌 Embedding Learning
 
 | Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
@@ -162,7 +185,7 @@
 | [PIE: A Personalized Information Embedded model for text-based depression detection](http://arxiv.org/abs/2408.03648v1) | PIE | 2024 | IPM | contextual embedding | [PDF](http://arxiv.org/pdf/2408.03648v1.pdf) | 
 | [Morpheus: Modeling role from personalized dialogue history by exploring and utilizing latent space](http://arxiv.org/abs/2407.02345v1) | Morpheus | 2024 | arxiv | Latent Variable Encoding | [PDF](http://arxiv.org/pdf/2407.02345v1.pdf) | 
 
-#### Learning From Human Feedback
+#### 👥 Learning From Human Feedback
 
 | Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
@@ -186,7 +209,7 @@
 | [alpha-DPO: Adaptive Reward Margin is What Direct Preference Optimization Needs](http://arxiv.org/abs/2502.08922v1) | alpha-DPO | 2024 | arxiv | DPO | [PDF](http://arxiv.org/pdf/2502.08922v1.pdf) | 
 | [β-DPO: Direct Preference Optimization with Dynamic β](http://arxiv.org/abs/1812.05748v4) | β-DPO | 2024 | NIPS | DPO | [PDF](http://arxiv.org/pdf/1812.05748v4.pdf) | 
 
-#### Reinforcement Learning
+#### 🔄 Reinforcement Learning
 
 | Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
