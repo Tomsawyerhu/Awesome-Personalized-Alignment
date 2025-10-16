@@ -10,6 +10,7 @@ We welcome all researchers to contribute to this repository and further contribu
 
 ## 📖 Contents
 
+- [📄 Related Surveys](#-related-surveys)
 - [💡 Test-time Personalized Alignment](#-test-time-personalized-alignment)
   - [🔤 Guided Decoding](#-guided-decoding)
   - [💬 Prompt-based](#-prompt-based)
@@ -21,6 +22,27 @@ We welcome all researchers to contribute to this repository and further contribu
   - [📌 Embedding Learning](#-embedding-learning)
   - [👥 Learning From Human Feedback](#-learning-from-human-feedback)
   - [🔄 Reinforcement Learning](#-reinforcement-learning)
+ 
+
+## 📄 Related Surveys
+
+| Title | Date | Link(s) |
+|-------|------|---------|
+| A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models | 2025/4 | [arXiv](https://arxiv.org/abs/2504.07070v1) |
+| A Survey of Personalization: From RAG to Agent | 2025/4 | [arXiv](https://arxiv.org/abs/2504.10147) | [GitHub](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent) |
+| A Survey on Personalized Alignment -- The Missing Piece for Large Language Models in Real-World Applications | 2025/3 | [arXiv](https://arxiv.org/abs/2503.17003) |
+| Personalized Generation In Large Model Era: A Survey | 2025/3 | [arXiv](https://arxiv.org/abs/2503.02614) |
+| A Survey of Personalized Large Language Models: Progress and Future Directions | 2025/2 | [arXiv](https://arxiv.org/abs/2502.11528) | [GitHub](https://github.com/JiahongLiu21/Awesome-Personalized-Large-Language-Models) |
+| A Survey on Alignment for Large Language Model Agents | 2025/2 | [OpenReview](https://openreview.net/pdf?id=gkxt5kZS84) |
+| Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization | 2024/12 | [arXiv](https://arxiv.org/abs/2406.01171) | [GitHub](https://github.com/MiuLab/PersonaLLM-Survey) |
+| Personalized Multimodal Large Language Models: A Survey | 2024/12 | [arXiv](https://arxiv.org/abs/2412.02142) |
+| Personalization of Large Language Models: A Survey | 2024/11 | [arXiv](https://arxiv.org/abs/2411.00027) |
+| When large language models meet personalization: perspectives of challenges and opportunities | 2024/10 | [arXiv](https://arxiv.org/abs/2307.16376) |
+| The Multilingual Alignment Prism: Aligning Global and Local Preferences to Reduce Harm | 2024/07 | [arXiv](https://arxiv.org/abs/2406.18682) |
+| Recent Trends in Personalized Dialogue Generation: A Review of Datasets, Methodologies, and Evaluations | 2024/05 | [arXiv](https://arxiv.org/abs/2405.17974) |
+| The benefits, risks and bounds of personalizing the alignment of large language models to individuals | 2024/04 | [arXiv](https://arxiv.org/abs/2303.05453) |
+| From Persona to Personalization: A Survey on Role-Playing Language Agents | 2024/04 | [arXiv](https://arxiv.org/abs/2404.18231) |
+| Position: A Roadmap to Pluralistic Alignment | 2024/02 | [arXiv](https://arxiv.org/abs/2402.05070) | [GitHub](https://github.com/jfisher52/AI_Pluralistic_Alignment) |
 
 
 ## 💡 Test-time Personalized Alignment
@@ -218,5 +240,9 @@ We welcome all researchers to contribute to this repository and further contribu
 | [Optimizing Safe and Aligned Language Generation: A Multi-Objective GRPO Approach](http://arxiv.org/abs/2503.21819v1) | | 2025 | arxiv | GRPO | [PDF](http://arxiv.org/pdf/2503.21819v1.pdf) | 
 | [Fine-Tuning a Large Language Model with Reinforcement Learning for Educational Question Generation](http://arxiv.org/abs/2212.03869v1) | | 2024 | AIED | on-policy RL | [PDF](http://arxiv.org/pdf/2212.03869v1.pdf) | 
 | [From Problem-Solving to Teaching Problem-Solving: Aligning LLMs with Pedagogy using Reinforcement Learning](http://arxiv.org/abs/2505.15607v2) | | 2025 | arxiv | on-policy RL | [PDF](http://arxiv.org/pdf/2505.15607v2.pdf) | 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Tomsawyerhu/Awesome-Personalized-Alignment&type=Date)](https://star-history.com/#Tomsawyerhu/Awesome-Personalized-Alignment&Date)
 
 
