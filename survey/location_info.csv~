@@ -1,0 +1,50 @@
+ProjectName,FilePath,MethodInfo,StartLine,EndLine
+VUL4J-1,src/main/java/com/alibaba/fastjson/serializer/ObjectArrayCodec.java,"public <T> T deserialze(DefaultJSONParser parser, Type type, Object fieldName)",128,180
+VUL4J-3,camel-core/src/main/java/org/apache/camel/converter/jaxp/XmlConverter.java,"public SAXSource toSAXSourceFromStream(StreamSource source, Exchange exchange)",575,607
+VUL4J-4,,,,
+VUL4J-5,,,,
+VUL4J-6,,,,
+VUL4J-7,src/main/java/org/apache/commons/compress/archivers/zip/ZipArchiveInputStream.java,"private int readStored(final byte[] buffer, final int offset, final int length)",510,544
+VUL4J-8,src/main/java/org/apache/commons/compress/archivers/zip/NioZipEncoding.java,public ByteBuffer encode(final String name),78,124
+VUL4J-10,src/main/java/org/apache/commons/fileupload/disk/DiskFileItem.java,private void readObject(ObjectInputStream in),654,671
+VUL4J-12,src/main/java/org/apache/commons/imaging/formats/jpeg/decoder/JpegDecoder.java,"private int extend(int v, final int t)",400,408
+VUL4J-18,jspwiki-main/src/main/java/org/apache/wiki/url/DefaultURLConstructor.java,public String getForwardPage( HttpServletRequest request ),278,281
+VUL4J-19,pdfbox/src/main/java/org/apache/pdfbox/pdmodel/encryption/StandardSecurityHandler.java,"public void prepareForDecryption(PDEncryption encryption, COSArray documentIDArray,
+
+                                     DecryptionMaterial decryptionMaterial)",167,276
+VUL4J-20,pdfbox/src/main/java/org/apache/pdfbox/cos/COSArray.java,public float[] toFloatArray(),534,542
+VUL4J-22,web/src/main/java/org/apache/shiro/web/util/WebUtils.java,public static String getContextPath(HttpServletRequest request),246,256
+VUL4J-23,bundles/extensions/xss/src/main/java/org/apache/sling/xss/impl/XSSAPIImpl.java,public String encodeForJSString(String source),431,433
+VUL4J-25,src/main/java/org/apache/sling/xss/impl/XSSAPIImpl.java,public String getValidHref(final String url),229,262
+VUL4J-26,core/src/main/java/com/opensymphony/xwork2/validator/validators/URLValidator.java,public String getUrlRegex(),69,90
+VUL4J-30,core/src/main/java/com/opensymphony/xwork2/validator/validators/URLValidator.java,public void validate(Object object) throws ValidationException,48,61
+VUL4J-39,server/src/main/java/org/cloudfoundry/identity/uaa/authentication/UaaAuthenticationDetails.java,public String toString(),105,123
+VUL4J-40,server/src/main/java/org/cloudfoundry/identity/uaa/security/ScimUserSelfUpdateAllowed.java,public boolean isAllowed(HttpServletRequest request),23,61
+VUL4J-41,src/main/java/org/codehaus/plexus/archiver/AbstractUnArchiver.java,"protected void extractFile( final File srcF, final File dir, final InputStream compressedInputStream,
+
+                                final String entryName, final Date entryDate, final boolean isDirectory,
+
+                                final Integer mode, String symlinkDestination )",303,361
+VUL4J-43,util/src/main/java/org/eclipse/rdf4j/common/io/ZipUtil.java,"public static void writeEntry(ZipFile zipFile, ZipEntry entry, File destDir)",90,105
+VUL4J-44,src/main/java/org/owasp/esapi/codecs/PercentCodec.java,"public String encodeCharacter( char[] immune, Character c )",96,110
+VUL4J-46,src/main/java/com/fasterxml/jackson/dataformat/xml/XmlFactory.java,"protected XmlFactory(ObjectCodec oc, int xpFeatures, int xgFeatures,
+
+            XMLInputFactory xmlIn, XMLOutputFactory xmlOut,
+
+            String nameForTextElem)",104,121
+VUL4J-47,src/main/java/com/fasterxml/jackson/dataformat/xml/XmlFactory.java,"protected XmlFactory(ObjectCodec oc, int xpFeatures, int xgFeatures,
+
+            XMLInputFactory xmlIn, XMLOutputFactory xmlOut,
+
+            String nameForTextElem)",104,123
+VUL4J-50,javamelody-core/src/main/java/net/bull/javamelody/HtmlSessionInformationsReport.java,"private void writeSession(SessionInformations session, boolean displayUser)",131,184
+VUL4J-53,core/src/main/java/hudson/scheduler/CronTab.java,"void setTo(Calendar c, int i)",206,208
+VUL4J-55,core/src/main/java/hudson/scheduler/CronTab.java,public Calendar ceil(Calendar cal),333,365
+VUL4J-57,src/main/java/org/jenkinsci/plugins/workflow/support/steps/build/BuildTriggerStepExecution.java,public boolean start(),60,148
+59,,,,
+61,src/main/java/apoc/load/Xml.java,"private Stream<MapResult> xmlXpathToMapResult(@Name(""url"") String url, boolean simpleMode, String path, Map<String, Object> config)",60,105
+64,,,,
+65,,,,
+66,,,,
+73,,,,
+74,,,,
