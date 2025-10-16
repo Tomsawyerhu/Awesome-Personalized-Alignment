@@ -10,7 +10,7 @@ We welcome all researchers to contribute to this repository and further contribu
 
 ## 📖 Contents
 
-- [💡 Test-time Personalized Alignment](#test-time-personalized-alignment)
+- [💡 Test-time Personalized Alignment](#-test-time-personalized-alignment)
   - [🔤 Guided Decoding](#guided-decoding)
   - [💬 Prompt-based](#prompt-based)
   - [🔎 RAG](#rag)
