@@ -3,7 +3,7 @@
 ## Test-time Personalized Alignment
 #### Guided Decoding
 
-| 论文标题 | 缩写 | 年份 | 来源 | 标签 | 下载 | 
+| Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
 | [Args: Alignment as reward-guided search](http://arxiv.org/abs/1912.00180v1) | Args | 2024 | arxiv | reward-guided decoding | [PDF](http://arxiv.org/pdf/1912.00180v1.pdf) | 
 | [Reward-augmented decoding: Efficient controlled text generation with a unidirectional reward model](http://arxiv.org/abs/2310.09520v4) | RAD | 2023 | arxiv | reward-guided decoding | [PDF](http://arxiv.org/pdf/2310.09520v4.pdf) | 
@@ -24,7 +24,7 @@
 
 #### Prompt-based
 
-| 论文标题 | 缩写 | 年份 | 来源 | 标签 | 下载 | 
+| Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
 | [Evaluating and inducing personality in pre-trained language models](http://arxiv.org/abs/2508.06149v1) | P2 | 2023 | NIPS | Direct Prompting | [PDF](http://arxiv.org/pdf/2508.06149v1.pdf) | 
 | [Evaluating character understanding of large language models via character profiling from fictional works.](http://arxiv.org/abs/2404.12726v3) | Character Profiling | 2024 | arxiv | Direct Prompting | [PDF](http://arxiv.org/pdf/2404.12726v3.pdf) | 
@@ -55,7 +55,7 @@
 
 #### RAG
 
-| 论文标题 | 缩写 | 年份 | 来源 | 标签 | 下载 | 
+| Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
 | [Lamp: When large language models meet personalization](http://arxiv.org/abs/2304.11406v4) | Lamp | 2023.0 | arxiv | RAG | [PDF](http://arxiv.org/pdf/2304.11406v4.pdf) | 
 | [Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs](http://arxiv.org/abs/2409.19401v1) | EMG-RAG | 2024.0 | EMNLP | Indexing | [PDF](http://arxiv.org/pdf/2409.19401v1.pdf) | 
@@ -90,7 +90,7 @@
 
 #### Agent
 
-| 论文标题 | 缩写 | 年份 | 来源 | 标签 | 下载 | 
+| Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
 | [Conversational health agents: A personalized llm-powered agent framework](http://arxiv.org/abs/2310.02374v5) | nan | 2023 | arxiv | Agent | [PDF](http://arxiv.org/pdf/2310.02374v5.pdf) | 
 | [Rolellm: Benchmarking, eliciting, and enhancing role-playing abilities of large language models](http://arxiv.org/abs/2410.09541v1) | RoleLLM | 2023 | arxiv | Agent | [PDF](http://arxiv.org/pdf/2410.09541v1.pdf) | 
@@ -118,7 +118,7 @@
 
 #### Memory
 
-| 论文标题 | 缩写 | 年份 | 来源 | 标签 | 下载 | 
+| Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
 | [Align on the fly: Adapting chatbot behavior to established norms](http://arxiv.org/abs/2312.15907v1) | OPO | 2023 | arxiv | memory | [PDF](http://arxiv.org/pdf/2312.15907v1.pdf) | 
 | [LLM-based medical assistant personalization with short-and long-term memory coordination](http://arxiv.org/abs/2309.11696v3) | MALP | 2023 | arxiv | memory | [PDF](http://arxiv.org/pdf/2309.11696v3.pdf) | 
@@ -128,7 +128,7 @@
 ## Training-time Personalized Alignment
 #### Fine-tune
 
-| 论文标题 | 缩写 | 年份 | 来源 | 标签 | 下载 | 
+| Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
 | [Fdlora: Personalized federated learning of large language model via dual lora tuning](http://arxiv.org/abs/2406.07925v1) | Fdlora | 2024.0 | arxiv | PEFT | [PDF](http://arxiv.org/pdf/2406.07925v1.pdf) | 
 | [Democratizing large language models via personalized parameter-efficient fine-tuning](http://arxiv.org/abs/2402.04401v3) | nan | 2024.0 | arxiv | PEFT | [PDF](http://arxiv.org/pdf/2402.04401v3.pdf) | 
@@ -148,7 +148,7 @@
 
 #### Embedding Learning
 
-| 论文标题 | 缩写 | 年份 | 来源 | 标签 | 下载 | 
+| Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
 | [Personalized steering of large language models: Versatile steering vectors through bi-directional preference optimization](http://arxiv.org/abs/2406.00045v2) | nan | 2024 | NIPS | nan | [PDF](http://arxiv.org/pdf/2406.00045v2.pdf) | 
 | [User-llm: Efficient llm contextualization with user embeddings](http://arxiv.org/abs/2402.13598v2) | UserLLM | 2024 | arxiv | contextual embedding | [PDF](http://arxiv.org/pdf/2402.13598v2.pdf) | 
@@ -164,7 +164,7 @@
 
 #### Learning From Human Feedback
 
-| 论文标题 | 缩写 | 年份 | 来源 | 标签 | 下载 | 
+| Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
 | [RLHF fine-tuning of LLMs for alignment with implicit user feedback in conversational recommenders](http://arxiv.org/abs/2508.05289v1) | nan | 2025.0 | arxiv | RLHF | [PDF](http://arxiv.org/pdf/2508.05289v1.pdf) | 
 | [Personalized language modeling from personalized human feedback](http://arxiv.org/abs/2508.10695v1) | P-RLHF | 2024.0 | arxiv | RLHF | [PDF](http://arxiv.org/pdf/2508.10695v1.pdf) | 
@@ -188,10 +188,11 @@
 
 #### Reinforcement Learning
 
-| 论文标题 | 缩写 | 年份 | 来源 | 标签 | 下载 | 
+| Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
 | [Cultivating Helpful, Personalized, and Creative AI Tutors: A Framework for Pedagogical Alignment using Reinforcement Learning](http://arxiv.org/abs/2507.20335v1) | nan | 2025 | arxiv | GRPO | [PDF](http://arxiv.org/pdf/2507.20335v1.pdf) | 
 | [GroupAligner: A Deep Reinforcement Learning with Domain Adaptation for Social Group Alignment](http://arxiv.org/abs/1812.07452v1) | nan | 2023 | WWW | deep-reinforment learning | [PDF](http://arxiv.org/pdf/1812.07452v1.pdf) | 
 | [Optimizing Safe and Aligned Language Generation: A Multi-Objective GRPO Approach](http://arxiv.org/abs/2503.21819v1) | nan | 2025 | arxiv | GRPO | [PDF](http://arxiv.org/pdf/2503.21819v1.pdf) | 
 | [Fine-Tuning a Large Language Model with Reinforcement Learning for Educational Question Generation](http://arxiv.org/abs/2212.03869v1) | nan | 2024 | AIED | on-policy RL | [PDF](http://arxiv.org/pdf/2212.03869v1.pdf) | 
 | [From Problem-Solving to Teaching Problem-Solving: Aligning LLMs with Pedagogy using Reinforcement Learning](http://arxiv.org/abs/2505.15607v2) | nan | 2025 | arxiv | on-policy RL | [PDF](http://arxiv.org/pdf/2505.15607v2.pdf) | 
+
