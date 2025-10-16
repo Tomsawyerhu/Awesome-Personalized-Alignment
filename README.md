@@ -11,16 +11,16 @@ We welcome all researchers to contribute to this repository and further contribu
 ## 📖 Contents
 
 - [💡 Test-time Personalized Alignment](#-test-time-personalized-alignment)
-  - [🔤 Guided Decoding](#guided-decoding)
-  - [💬 Prompt-based](#prompt-based)
-  - [🔎 RAG](#rag)
-  - [🤖 Agent](#agent)
-  - [🧠 Memory](#memory)
-- [⚙️ Training-time Personalized Alignment](#training-time-personalized-alignment)
-  - [🔧 Fine-tune](#fine-tune)
-  - [📌 Embedding Learning](#embedding-learning)
-  - [👥 Learning From Human Feedback](#learning-from-human-feedback)
-  - [🔄 Reinforcement Learning](#reinforcement-learning)
+  - [🔤 Guided Decoding](#-guided-decoding)
+  - [💬 Prompt-based](#-prompt-based)
+  - [🔎 RAG](#-rag)
+  - [🤖 Agent](#-agent)
+  - [🧠 Memory](#-memory)
+- [⚙️ Training-time Personalized Alignment](#-training-time-personalized-alignment)
+  - [🔧 Fine-tune](#-fine-tune)
+  - [📌 Embedding Learning](#-embedding-learning)
+  - [👥 Learning From Human Feedback](#-learning-from-human-feedback)
+  - [🔄 Reinforcement Learning](#-reinforcement-learning)
 
 
 ## 💡 Test-time Personalized Alignment
