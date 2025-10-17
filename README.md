@@ -32,9 +32,9 @@ We welcome all researchers to contribute to this repository and further contribu
 | A Survey of Personalization: From RAG to Agent | 2025/4 | [arXiv](https://arxiv.org/abs/2504.10147) | [GitHub](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent) |
 | A Survey on Personalized Alignment -- The Missing Piece for Large Language Models in Real-World Applications | 2025/3 | [arXiv](https://arxiv.org/abs/2503.17003) |
 | Personalized Generation In Large Model Era: A Survey | 2025/3 | [arXiv](https://arxiv.org/abs/2503.02614) |
-| A Survey of Personalized Large Language Models: Progress and Future Directions | 2025/2 | [arXiv](https://arxiv.org/abs/2502.11528) | [GitHub](https://github.com/JiahongLiu21/Awesome-Personalized-Large-Language-Models) |
+| A Survey of Personalized Large Language Models: Progress and Future Directions | 2025/2 | [arXiv](https://arxiv.org/abs/2502.11528) , [GitHub](https://github.com/JiahongLiu21/Awesome-Personalized-Large-Language-Models) |
 | A Survey on Alignment for Large Language Model Agents | 2025/2 | [OpenReview](https://openreview.net/pdf?id=gkxt5kZS84) |
-| Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization | 2024/12 | [arXiv](https://arxiv.org/abs/2406.01171) | [GitHub](https://github.com/MiuLab/PersonaLLM-Survey) |
+| Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization | 2024/12 | [arXiv](https://arxiv.org/abs/2406.01171) , [GitHub](https://github.com/MiuLab/PersonaLLM-Survey) |
 | Personalized Multimodal Large Language Models: A Survey | 2024/12 | [arXiv](https://arxiv.org/abs/2412.02142) |
 | Personalization of Large Language Models: A Survey | 2024/11 | [arXiv](https://arxiv.org/abs/2411.00027) |
 | When large language models meet personalization: perspectives of challenges and opportunities | 2024/10 | [arXiv](https://arxiv.org/abs/2307.16376) |
@@ -42,8 +42,8 @@ We welcome all researchers to contribute to this repository and further contribu
 | Recent Trends in Personalized Dialogue Generation: A Review of Datasets, Methodologies, and Evaluations | 2024/05 | [arXiv](https://arxiv.org/abs/2405.17974) |
 | The benefits, risks and bounds of personalizing the alignment of large language models to individuals | 2024/04 | [arXiv](https://arxiv.org/abs/2303.05453) |
 | From Persona to Personalization: A Survey on Role-Playing Language Agents | 2024/04 | [arXiv](https://arxiv.org/abs/2404.18231) |
+| A Survey on the Memory Mechanism of Large Language Model based Agents | 2024/04 | [arXiv](https://arxiv.org/abs/2404.13501), [Github](https://github.com/nuster1128/LLM_Agent_Memory_Survey) |
 | Position: A Roadmap to Pluralistic Alignment | 2024/02 | [arXiv](https://arxiv.org/abs/2402.05070) , [GitHub](https://github.com/jfisher52/AI_Pluralistic_Alignment) |
-| A Survey on the Memory Mechanism of Large Language Model based Agents | 2024/02 | [arXiv](https://arxiv.org/abs/2310.08560) |
 
 ## 💡 Test-time Personalized Alignment
 #### 🔤 Guided Decoding
