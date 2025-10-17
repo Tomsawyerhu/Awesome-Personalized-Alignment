@@ -32,9 +32,9 @@ We welcome all researchers to contribute to this repository and further contribu
 | A Survey of Personalization: From RAG to Agent | 2025/4 | [arXiv](https://arxiv.org/abs/2504.10147) | [GitHub](https://github.com/Applied-Machine-Learning-Lab/Awesome-Personalized-RAG-Agent) |
 | A Survey on Personalized Alignment -- The Missing Piece for Large Language Models in Real-World Applications | 2025/3 | [arXiv](https://arxiv.org/abs/2503.17003) |
 | Personalized Generation In Large Model Era: A Survey | 2025/3 | [arXiv](https://arxiv.org/abs/2503.02614) |
-| A Survey of Personalized Large Language Models: Progress and Future Directions | 2025/2 | [arXiv](https://arxiv.org/abs/2502.11528) , [GitHub](https://github.com/JiahongLiu21/Awesome-Personalized-Large-Language-Models) |
+| A Survey of Personalized Large Language Models: Progress and Future Directions | 2025/2 | [arXiv](https://arxiv.org/abs/2502.11528), [GitHub](https://github.com/JiahongLiu21/Awesome-Personalized-Large-Language-Models) |
 | A Survey on Alignment for Large Language Model Agents | 2025/2 | [OpenReview](https://openreview.net/pdf?id=gkxt5kZS84) |
-| Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization | 2024/12 | [arXiv](https://arxiv.org/abs/2406.01171) , [GitHub](https://github.com/MiuLab/PersonaLLM-Survey) |
+| Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization | 2024/12 | [arXiv](https://arxiv.org/abs/2406.01171), [GitHub](https://github.com/MiuLab/PersonaLLM-Survey) |
 | Personalized Multimodal Large Language Models: A Survey | 2024/12 | [arXiv](https://arxiv.org/abs/2412.02142) |
 | Personalization of Large Language Models: A Survey | 2024/11 | [arXiv](https://arxiv.org/abs/2411.00027) |
 | When large language models meet personalization: perspectives of challenges and opportunities | 2024/10 | [arXiv](https://arxiv.org/abs/2307.16376) |
@@ -43,7 +43,7 @@ We welcome all researchers to contribute to this repository and further contribu
 | The benefits, risks and bounds of personalizing the alignment of large language models to individuals | 2024/04 | [arXiv](https://arxiv.org/abs/2303.05453) |
 | From Persona to Personalization: A Survey on Role-Playing Language Agents | 2024/04 | [arXiv](https://arxiv.org/abs/2404.18231) |
 | A Survey on the Memory Mechanism of Large Language Model based Agents | 2024/04 | [arXiv](https://arxiv.org/abs/2404.13501), [Github](https://github.com/nuster1128/LLM_Agent_Memory_Survey) |
-| Position: A Roadmap to Pluralistic Alignment | 2024/02 | [arXiv](https://arxiv.org/abs/2402.05070) , [GitHub](https://github.com/jfisher52/AI_Pluralistic_Alignment) |
+| Position: A Roadmap to Pluralistic Alignment | 2024/02 | [arXiv](https://arxiv.org/abs/2402.05070), [GitHub](https://github.com/jfisher52/AI_Pluralistic_Alignment) |
 
 ## 💡 Test-time Personalized Alignment
 #### 🔤 Guided Decoding
@@ -159,7 +159,7 @@ We welcome all researchers to contribute to this repository and further contribu
 | [Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-Agent LLMs](http://arxiv.org/abs/2411.14739v1) | Agent4Ranking | 2025 | TOIS | Agent | [PDF](http://arxiv.org/pdf/2411.14739v1.pdf) | 
 | [One Size doesn't Fit All: A Personalized Conversational Tutoring Agent for Mathematics Instruction](http://arxiv.org/abs/2502.12633v2) | PACE | 2025 | WWW | Agent | [PDF](http://arxiv.org/pdf/2502.12633v2.pdf) | 
 | [MAP: Multi-user Personalization with Collaborative LLM-powered Agents](http://arxiv.org/abs/2506.11803v2) | MAP | 2025 | CHI | Agent | [PDF](http://arxiv.org/pdf/2506.11803v2.pdf) | 
-| [Evaluating personalized tool-augmented llms from the perspectives of personalization and proactivity](http://arxiv.org/abs/2503.00771v2) | | 2025 | arxiv | Agent | [PDF](http://arxiv.org/pdf/2503.00771v2.pdf) | 
+| [Evaluating personalized tool-augmented llms from the perspectives of personalization and proactivity](http://arxiv.org/abs/2503.00771v2) | | 2025 | arxiv | Agent | [PDF](http://arxiv.org/pdf/2503.00771v2.pdf) |  
 
 #### 🧠 Memory
 
@@ -168,6 +168,8 @@ We welcome all researchers to contribute to this repository and further contribu
 | [Align on the fly: Adapting chatbot behavior to established norms](http://arxiv.org/abs/2312.15907v1) | OPO | 2023 | arxiv | memory | [PDF](http://arxiv.org/pdf/2312.15907v1.pdf) | 
 | [LLM-based medical assistant personalization with short-and long-term memory coordination](http://arxiv.org/abs/2309.11696v3) | MALP | 2023 | arxiv | memory | [PDF](http://arxiv.org/pdf/2309.11696v3.pdf) | 
 | [Memory-assisted prompt editing to improve GPT-3 after deployment](http://arxiv.org/abs/2201.06009v7) | MemPrompt | 2022 | arxiv | memory | [PDF](http://arxiv.org/pdf/2201.06009v7.pdf) | 
+| [MemGPT:Towards LLMsasOperating Systems](https://arxiv.org/abs/2310.08560) | MemGPT | 2023 | arxiv | memory | [PDF](https://arxiv.org/pdf/2310.08560.pdf) | 
+| [MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://arxiv.org/abs/2305.10250) | MemoryBank | 2023 | arxiv | memory | [PDF](https://arxiv.org/pdf/2305.10250.pdf) | 
 
 
 ## ⚙️ Training-time Personalized Alignment
