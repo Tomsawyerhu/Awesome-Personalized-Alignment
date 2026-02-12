@@ -243,6 +243,20 @@ We welcome all researchers to contribute to this repository and further contribu
 | [Fine-Tuning a Large Language Model with Reinforcement Learning for Educational Question Generation](http://arxiv.org/abs/2212.03869v1) | | 2024 | AIED | on-policy RL | [PDF](http://arxiv.org/pdf/2212.03869v1.pdf) | 
 | [From Problem-Solving to Teaching Problem-Solving: Aligning LLMs with Pedagogy using Reinforcement Learning](http://arxiv.org/abs/2505.15607v2) | | 2025 | arxiv | on-policy RL | [PDF](http://arxiv.org/pdf/2505.15607v2.pdf) | 
 
+#### Citation
+```
+@article{Hu_2026,
+  title={Personalized Alignment in the Era of LLMs: A Review of Methodologies, Datasets, Evaluation, and Applications},
+  url={http://dx.doi.org/10.36227/techrxiv.177083699.99572896/v1},
+  DOI={10.36227/techrxiv.177083699.99572896/v1},
+  publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+  author={Hu, Haichuan and Yang, Xiao and Wang, Jiashuo and Zhang, Quanjun and Tang, Mingni and Song, Changhe and Shang, Ye and He, Congqing and Li, Wenjie},
+  year={2026},
+  month=feb
+}
+
+```
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Tomsawyerhu/Awesome-Personalized-Alignment&type=Date)](https://star-history.com/#Tomsawyerhu/Awesome-Personalized-Alignment&Date)
