@@ -237,6 +237,7 @@ We welcome all researchers to contribute to this repository and further contribu
 
 | Paper | Abbr. | Year | Source | Tag | PDF | 
 |----------|------|------|------|------|--------|
+| [TagPR: Tag-Guided Process Supervision for Personalization Reasoning in Large Language Models](https://arxiv.org/abs/2509.23140) | TagPR | 2026 | EMNLP Main | GSPO | [PDF](https://arxiv.org/pdf/2509.23140) |
 | [Cultivating Helpful, Personalized, and Creative AI Tutors: A Framework for Pedagogical Alignment using Reinforcement Learning](http://arxiv.org/abs/2507.20335v1) | | 2025 | arxiv | GRPO | [PDF](http://arxiv.org/pdf/2507.20335v1.pdf) | 
 | [GroupAligner: A Deep Reinforcement Learning with Domain Adaptation for Social Group Alignment](http://arxiv.org/abs/1812.07452v1) | | 2023 | WWW | deep-reinforment learning | [PDF](http://arxiv.org/pdf/1812.07452v1.pdf) | 
 | [Optimizing Safe and Aligned Language Generation: A Multi-Objective GRPO Approach](http://arxiv.org/abs/2503.21819v1) | | 2025 | arxiv | GRPO | [PDF](http://arxiv.org/pdf/2503.21819v1.pdf) | 
